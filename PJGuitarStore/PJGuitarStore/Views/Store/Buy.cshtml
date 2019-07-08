@@ -1,0 +1,15 @@
+@model PJGuitarStore.Models.Guitar
+
+@{
+    ViewBag.Title = "Buy";
+}
+<html>
+<head>
+    <title>Products</title>
+    <link href="~/Content/sitestyle.css" rel="stylesheet" type="text/css">
+</head>
+<body background="~/images/wallpaperfx.jpg">
+    <img src="~/images/Logo.png" width="270" height="166" alt="Logo" />
+    <h2>You just bought @Model.GuitarName for @Model.Price</h2>
+</body>
+</html>

@@ -1,0 +1,228 @@
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\PJGuitarStore.dll.config
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\PJGuitarStore.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\PJGuitarStore.pdb
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\csc.exe
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\csc.exe.config
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\csc.rsp
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\csi.exe
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\csi.exe.config
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\csi.rsp
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.AppContext.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Console.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\vbc.exe
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\vbc.exe.config
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\vbc.rsp
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Antlr3.Runtime.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\EntityFramework.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Newtonsoft.Json.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Owin.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.Helpers.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.Mvc.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.Optimization.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.Razor.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.WebPages.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\WebGrease.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.Helpers.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.Mvc.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.Optimization.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.Razor.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.WebPages.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Newtonsoft.Json.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Antlr3.Runtime.pdb
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\EntityFramework.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\obj\Debug\PJGuitarStore.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\obj\Debug\PJGuitarStore.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\obj\Debug\PJGuitarStore.csproj.CopyComplete
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\obj\Debug\PJGuitarStore.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\obj\Debug\PJGuitarStore.pdb
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\PJGuitarStore.dll.config
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\PJGuitarStore.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\PJGuitarStore.pdb
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\csc.exe
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\csc.exe.config
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\csc.rsp
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\csi.exe
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\csi.exe.config
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\csi.rsp
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.AppContext.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Console.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.IO.Compression.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Security.Claims.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.ValueTuple.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\vbc.exe
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\vbc.exe.config
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\vbc.rsp
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Antlr3.Runtime.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\EntityFramework.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Newtonsoft.Json.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Owin.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.Helpers.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.Mvc.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.Optimization.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.Razor.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.WebPages.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\WebGrease.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.Helpers.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.Mvc.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.Optimization.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.Razor.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.WebPages.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Newtonsoft.Json.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Antlr3.Runtime.pdb
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\EntityFramework.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\obj\Debug\PJGuitarStore.csprojAssemblyReference.cache
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\obj\Debug\PJGuitarStore.csproj.CoreCompileInputs.cache
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\obj\Debug\PJGuitarStore.csproj.CopyComplete
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\obj\Debug\PJGuitarStore.dll
+C:\Users\Pat\Desktop\.NET Final Backups\PJGuitarStore-4\PJGuitarStore\obj\Debug\PJGuitarStore.pdb
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Net.Http.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\obj\Debug\PJGuitarStore.Migrations.InitialCreate.resources
+C:\Users\Pat\source\repos\PJGuitarStore\PJGuitarStore\obj\Debug\PJGuitarStore.csproj.GenerateResource.cache

@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>List of Classes</h2>
+@foreach (string course in ViewBag.Classes)
+{
+    <li>
+        @course
+    </li>
+}
+

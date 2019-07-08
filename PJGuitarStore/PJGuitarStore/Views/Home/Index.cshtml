@@ -1,0 +1,46 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<html>
+<head>
+    <title>Home</title>
+    <link href="~/Content/sitestyle.css" rel="stylesheet" type="text/css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+<body background="~/images/wallpaperfx.jpg">
+    <div class="jumbotron">
+        <img src="~/images/Logo.png" width="450" height="276" alt="Logo" />
+        <h1>Patticus Jangles Guitar Shop</h1>
+        <p class="lead">Music makes the world go round</p>
+        <p><button class="testButton">See Our Sweet Deals! &raquo;</button></p>
+    </div>
+    <div class="center">
+        <div class="row">
+            <div class="div1">
+                <h2>Gibson Les Paul Silverburst</h2>
+                <img src="~/images/silverburst.jpg" alt="Silverburst" />
+                <p>Only $3,899.99!</p>
+                <p><a class="btn btn-default" href="@Url.Action("Index", "Store")">Buy Now! &raquo;</a></p>
+            </div>
+            <div class="div2">
+                <h2>Martin Vintage 1970 Classical Nylon String</h2>
+                <img src="~/images/martin.jpg" alt="Martin" />
+                <p>Only $2,299.99!</p>
+                <p><a class="btn btn-default" href="@Url.Action("Index", "Store")">Buy Now! &raquo;</a></p>
+            </div>
+            <div class="div3">
+                <h2>Fender Stratocaster Newly Refurbished</h2>
+                <img src="~/images/strat.jpg" alt="Stratocaster" />
+                <p>Only $599.99!</p>
+                <p><a class="btn btn-default" href="@Url.Action("Index", "Store")">Buy Now! &raquo;</a></p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+@section Scripts {
+    <script src="~/Scripts/crudstuff.js"></script>
+}

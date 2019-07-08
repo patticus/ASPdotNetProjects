@@ -1,0 +1,48 @@
+﻿@model IEnumerable<PJGuitarStore.Models.Guitar>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<html>
+<head>
+    <title>Store</title>
+    <link href="~/Content/sitestyle.css" rel="stylesheet" type="text/css">
+</head>
+<body background="~/images/wallpaperfx.jpg">
+
+
+    <img src="~/images/Logo.png" width="270" height="166" alt="Logo" />
+    <h1>Patticus Jangles Guitar Shop</h1>
+
+    <table class="table">
+        <tr>
+            <th>
+                <p>Guitar</p>
+            </th>
+            <th>
+                <p>Price</p>
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    <p>@Html.DisplayFor(modelItem => item.GuitarName)</p>
+                </td>
+                <td>
+                    <p>$@Html.DisplayFor(modelItem => item.Price)</p>
+                </td>
+                <td>
+                    @Html.ActionLink("Buy", "Buy",
+                        new { id = item.GuitarId },
+                        new { @class = "btn btn-primary" })
+                </td>
+            </tr>
+        }
+
+    </table>
+</body>
+</html>

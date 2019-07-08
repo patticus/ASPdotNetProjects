@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Connection String used in web.config by the application to access the database." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-PJGuitarStore-20190530013246.mdf;Initial Catalog=aspnet-PJGuitarStore-20190530013246; user id=UID; password=PWD; Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Pat\\source\\repos\\PJGuitarStore\\PJGuitarStore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="GuitarStoreDb-Web.config Connection String" description="GuitarStoreDb Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=GuitarStoreDb-20190531133616; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|GuitarStoreDb-20190531133616.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Pat\\source\\repos\\PJGuitarStore\\PJGuitarStore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='GuitarStoreDb']/@connectionString" />
+  </parameter>
+</parameters>

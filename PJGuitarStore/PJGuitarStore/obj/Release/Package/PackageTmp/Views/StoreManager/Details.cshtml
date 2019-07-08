@@ -1,0 +1,64 @@
+﻿@model PJGuitarStore.Models.Guitar
+
+@{
+    ViewBag.Title = "Details";
+}
+<html>
+<head>
+    <link href="~/Content/sitestyle.css" rel="stylesheet" type="text/css">
+</head>
+<body background="~/images/wallpaperfx.jpg">
+    <h2>Details</h2>
+
+    <div>
+        <h4>Guitar</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Brand.BrandName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Brand.BrandName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Category.CategoryName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Category.CategoryName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.GuitarName)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.GuitarName)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Condition)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Condition)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Price)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Price)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Edit", "Edit", new { id = Model.GuitarId }) |
+        @Html.ActionLink("Back to List", "Index")
+    </p>
+    </body>
+</html>

@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+
+<html>
+<head>
+    <title>Home</title>
+    <link href="~/Content/design2.css" rel="stylesheet" type="text/css">
+    <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+<body>
+    <div id="container">
+        <img src="~/nat20logo.png" class="center-block" height="200" width="175" alt="Logo" />
+        <h2 align="center">Nat 20 D&D Dice Store</h2>
+        <button class="testButton">Open Dice Roller</button>
+
+        <div id="center">
+            <p id="dice">15
+            </p>
+            <button id="button" onclick="setTimeout(*, 3000);">Roll Dice</button>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">
+            <h3 align="center">Build Dice Packs</h3>
+            <img src="~/dicepack.jpg" class="center-block" height="200" width="200" alt="Logo" />
+            <!--<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301865">Learn more &raquo;</a></p>-->
+        </div>
+        <div class="col-md-4">
+            <h3 align="center">Choose Your Dice Bag</h3>
+            <img src="~/bag.jpg" class="center-block" height="200" width="235" alt="Logo" />
+            <!--<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301866">Learn more &raquo;</a></p>-->
+        </div>
+        <div class="col-md-4">
+            <h3 align="center">Customize Single Die</h3>
+            <img src="~/customdice.jpg" class="center-block" height="200" width="200" alt="Logo" />
+            <!--<p><a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301867">Learn more &raquo;</a></p>-->
+        </div>
+    </div>
+</body>
+</html>
+
+@section Scripts {
+    <script src="~/Scripts/CRUDJquery/crudstuff.js"></script>
+}

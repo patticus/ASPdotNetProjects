@@ -1,0 +1,32 @@
+﻿body {
+    background-color: #6D0000;
+    margin: 0px;
+}
+
+.orderbody {
+    background-color: antiquewhite;
+    margin: 0px;
+}
+
+#container {
+    margin: 0 auto;
+    width: 1000px;
+    height: auto;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: antiquewhite;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    color: #6D0000;
+}
+
+
+

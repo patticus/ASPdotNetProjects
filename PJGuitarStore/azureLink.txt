@@ -1,0 +1,5 @@
+https://pjguitarstore20190605051605.azurewebsites.net/
+
+admin login
+username: patticus
+password: $outhHills1
